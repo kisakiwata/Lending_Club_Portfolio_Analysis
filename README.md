@@ -1,4 +1,4 @@
-# capstone_nit-k
+# The Lending Club Investoment Portfolio
 
 Objective
 
